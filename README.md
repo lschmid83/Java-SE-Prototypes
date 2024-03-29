@@ -9,6 +9,12 @@ These are a collection of early graphics and game demos I built using Java SE in
 * Shapes
 * SpidersWeb
 
+Here are some example screenshots of the prototype demos running:
+
+<img align='left' src='https://drive.google.com/uc?id=1vSlJMxmgm6vREisK1AfkNorUlpxU8Fba' width='240'>
+<img align='left' src='https://drive.google.com/uc?id=1Fif-Ltdhv4Adi36sv1KnXqquelmmB3FO' width='240'>
+<img src='https://drive.google.com/uc?id=1VJftBhC7z8bXr3jH_RfokKfeefPjjIbH' width='240'>
+
 Download the required software here:
 
 [Java SE Development Kit 8](https://drive.google.com/file/d/1V_ev8PK-3MofeY2Rk7cX-4J8815zqGsZ/view?usp=drive_link)
